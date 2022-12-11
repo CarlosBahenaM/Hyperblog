@@ -7,6 +7,15 @@ body {
   font-size: 16px;
 }
 
+#cabecera {
+  box-shadow: #333;
+  background-color: #33a;
+  color: white;
+  margin: 0;
+  padding: 0.5em;
+  font-size: 24px;
+}
+
 #container {
   width: 70%;
   padding: 1em;
@@ -17,4 +26,9 @@ body {
 
 #container h1 {
   font-size: 70px;
+}
+
+span {
+  margin-left: 1em;
+  font-size: 16px;
 }
