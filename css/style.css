@@ -1,5 +1,5 @@
 body {
-  color: blue;
+  color: #333;
   text-align: left;
   font-family: 'arial', Courier, monospace, Helvetica, sans-serif;
   margin: 0;
@@ -25,7 +25,7 @@ body {
 }
 
 #container h1 {
-  font-size: 70px;
+  font-size: 60px;
 }
 
 span {
