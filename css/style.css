@@ -1,4 +1,5 @@
 body {
+  background-color: rgb(49, 47, 47);
   color: #333;
   text-align: left;
   font-family: 'arial', Courier, monospace, Helvetica, sans-serif;
@@ -8,6 +9,7 @@ body {
 }
 
 #cabecera {
+  border-radius: 10px;
   box-shadow: #333;
   background-color: #33a;
   color: white;
@@ -16,7 +18,13 @@ body {
   font-size: 24px;
 }
 
+#cabecera #logo {
+width: 35px;
+vertical-align: middle;
+}
+
 #container {
+  background-color: aliceblue;
   width: 70%;
   padding: 1em;
   text-align: left;
